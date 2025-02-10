@@ -1,3 +1,43 @@
+
+Project Setup and Running Instructions
+
+Installation
+
+To get started with the project, follow these steps:
+
+Install Dependencies Navigate to both the dashboard-app and analytics-app folders and install the necessary dependencies by running the following command in each folder:
+
+npm i
+
+Running the Project
+
+1. Start the Dashboard App
+
+Open the dashboard-app folder in an integrated terminal.
+
+Start the server by running:
+
+node server.js
+
+Run the application with:
+
+npm run dev
+
+The project will open on localhost:3000.
+
+2. Start the Analytics App
+
+Open the analytics-app folder in an integrated terminal.
+
+Start the application by running:
+
+npm run dev
+
+(The project will run  on localhost:3001 - for micro frontend example).
+
+Your project should now be running completely successfully!
+
+
 # YanchWare Smart Home Hub
 
 ## Overview
