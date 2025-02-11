@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "name": "Arlo Pro",
+    "type": "Security Camera",
+    "location": "Office",
+    "currentState": "off",
+    "temperature": "27.6°C",
+    "humidity": "30.4%"
+  },
+  {
+    "id": 2,
+    "name": "Amazon Echo",
+    "type": "Smart Speaker",
+    "location": "Office",
+    "currentState": "on",
+    "temperature": "20.4°C",
+    "humidity": "48.6%",
+    "volume": 80
+  },
+  {
+    "id": 3,
+    "name": "Nest Thermostat",
+    "type": "Thermostat",
+    "location": "Bathroom",
+    "currentState": "on",
+    "temperature": "23°C°C",
+    "humidity": "37.5%"
+  },
+  {
+    "id": 4,
+    "name": "Google Nest Cam",
+    "type": "Security Camera",
+    "location": "Living Room",
+    "currentState": "off",
+    "temperature": "27.8°C",
+    "humidity": "67%"
+  },
+  {
+    "id": 5,
+    "name": "Arlo Pro",
+    "type": "Security Camera",
+    "location": "Living Room",
+    "currentState": "on",
+    "temperature": "20.5°C",
+    "humidity": "41%"
+  },
+  {
+    "id": 6,
+    "name": "Nanoleaf A19",
+    "type": "Light",
+    "location": "Bathroom",
+    "currentState": "on",
+    "temperature": "30°C",
+    "humidity": "69.7%",
+    "brightness": 27
+  },
+  {
+    "id": 7,
+    "name": "Philips Hue",
+    "type": "Light",
+    "location": "Bathroom",
+    "currentState": "on",
+    "temperature": "28.7°C",
+    "humidity": "34.7%",
+    "brightness": 53
+  },
+  {
+    "id": 8,
+    "name": "Nest Thermostat",
+    "type": "Thermostat",
+    "location": "Office",
+    "currentState": "20°C",
+    "temperature": "27°C°C",
+    "humidity": "69.7%"
+  },
+  {
+    "id": 9,
+    "name": "ecobee SmartThermostat",
+    "type": "Thermostat",
+    "location": "Garage",
+    "currentState": "on",
+    "temperature": "20°C°C",
+    "humidity": "46.7%"
+  },
+  {
+    "id": 10,
+    "name": "Amazon Echo",
+    "type": "Smart Speaker",
+    "location": "Bedroom",
+    "currentState": "on",
+    "temperature": "20.2°C",
+    "humidity": "66.6%",
+    "volume": 30
+  }
+]
